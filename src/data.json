@@ -1,0 +1,78 @@
+[
+    {
+      "id": 1,
+      "titre": "Introduction à React",
+      "categorie": "Programmation",
+      "date": "2024-01-01",
+      "contenu": "React est une bibliothèque JavaScript pour créer des interfaces utilisateur."
+    },
+    {
+      "id": 2,
+      "titre": "Les bases du HTML",
+      "categorie": "Web",
+      "date": "2024-01-10",
+      "contenu": "HTML est le langage de base utilisé pour structurer les pages web."
+    },
+    {
+      "id": 3,
+      "titre": "Comprendre CSS",
+      "categorie": "Web",
+      "date": "2024-01-15",
+      "contenu": "CSS permet de styliser les pages HTML et de les rendre attrayantes."
+    },
+    {
+      "id": 4,
+      "titre": "Introduction à Node.js",
+      "categorie": "Backend",
+      "date": "2024-01-20",
+      "contenu": "Node.js est un environnement d'exécution JavaScript côté serveur."
+    },
+    {
+      "id": 5,
+      "titre": "INTRODUCTION A L’ETUDE DES SCIENCES RELIGIEUSES",
+      "categorie": "Majaalis",
+      "date": "2024-3-24",
+      "contenu": "At-Tawhîd (La Théologie) Al-Fiqh (La Jurisprudence) At-Taçawwûf (La Science du Soufisme)An Nahwu (La Grammaire) As Sarf (la conjugaison)Al Luqatul arabia (C’est la maîtrise de la langue arabe)Al Harôd(La prosodie qui embrasse à la fois les règles de la poétique), Al bayân (La réthorique qui fonde l’éloquence en ce qu’elle met en œuvre tous les procédés de construction et de raisonnement en vue de la beauté du discours dont l’objectif est de convaincre.)"
+    },
+    {
+      "id": 6,
+      "titre": "Le Viatique de la jeunessen",
+      "categorie": "Majaalis",
+      "date": "2024-03-24",
+      "contenu": "Tazawwudu-sh-shubbân (traité de théologie, de jurisprudence et de perfectionnement spirituel)"
+    },
+
+    {
+      "id": 7,
+      "titre": "Tazawwudu-ç-çighâr",
+      "categorie": "Majaalis",
+      "date": "2024-10-24",
+      "contenu": "Le Viatique des adolescents(Initiation)"
+    },
+
+    {
+      "id": 8,
+      "titre": "Masâlikul Jinân",
+      "categorie": "Majaalis",
+      "date": "2024-11-24",
+      "contenu": "Les itinéraires du Paradis Masâlikul Jinân (Perfectionnement spirituel)"
+    },
+
+    {
+      "id": 7,
+      "titre": "Mawaahibul Xuddoos",
+      "categorie": "Majaalis",
+      "date": "2024-12-24",
+      "contenu": "Les Dons du TRES-SAINT Mawâhibul Quddûs (Théologie)"
+    },
+
+    {
+      "id": 8,
+      "titre": "Nahju Qadâil Hâj",
+      "categorie": "Majaalis",
+      "date": "2024-01-24",
+      "contenu": "La voie de la satisfaction des besoins Nahju Qadâil Hâj (Politesse Légale)"
+    }
+
+    
+  ]
